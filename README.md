@@ -7,3 +7,5 @@ Questions:1
 Questions:2 
               Which Country purchased the highest number of accessories?
               → Use "Country by Accessories" data for analysis.
+Questions:3 
+              which  Stores are salling the most products, and what are their total sales ?
